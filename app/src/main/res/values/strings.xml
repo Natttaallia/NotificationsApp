@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab6Kulbaka</string>
+    <string name="create">Створити повідомлення</string>
+    <string name="show">Переглянути</string>
+    <string name="time_btn">Обрати час</string>
+    <string name="time">Час: $s</string>
+    <string name="date">Дата: $s</string>
+    <string name="date_btn">Обрати дату</string>
+    <string name="theme">Тема</string>
+    <string name="text">Повідомлення</string>
+    <string name="save">Зберігти</string>
+    <string name="no_theme">Введіть тему!</string>
+    <string name="no_text">Введіть текст повідомлення!</string>
+    <string name="success_added">Нагадування створено!</string>
+    <string name="success_delete">Нагадування видалено!</string>
+    <string name="data_item">
+        Тема: %1$s \n
+        Дата та час: %2$s</string>
+    <string name="timeDate">Час і дата</string>
+</resources>
